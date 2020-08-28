@@ -1,0 +1,8 @@
+test_file.py
+**.csv
+config.py
+sample_notebook-Copy1-checkpoint.ipynb
+sample_notebook-Copy1.ipynb
+__pycache__
+**.ipynb_checkpoints
+**.ipynb
